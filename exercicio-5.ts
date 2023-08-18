@@ -16,6 +16,7 @@ function analisarNumeros(numeros: number[]): Record<string, number> {
   };
 
   return resultado;
+  
 }
 
 const numeros = [10, 5, 8, 12, 3, 7];
